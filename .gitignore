@@ -1,0 +1,11 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# The extracted ml-latest-small/ folder is committed; the zip is a duplicate
+ml-latest-small.zip
+
+# Office lock files / OS junk
+~$*
+.DS_Store
+Thumbs.db
